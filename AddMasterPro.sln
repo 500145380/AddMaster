@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddMasterPro", "AddMasterPro\AddMasterPro.csproj", "{D99BCE98-C225-4DF9-84D0-28E3D50A567A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99BCE98-C225-4DF9-84D0-28E3D50A567A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99BCE98-C225-4DF9-84D0-28E3D50A567A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99BCE98-C225-4DF9-84D0-28E3D50A567A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99BCE98-C225-4DF9-84D0-28E3D50A567A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
